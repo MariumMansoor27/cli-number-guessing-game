@@ -1,0 +1,21 @@
+{
+  "name": "mrs.mansoor-cli-numberguessing-game",
+  "version": "1.0.0",
+  "description": "This cli based number guessing game",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  },
+  "dependencies": {
+    "inquirer": "^9.2.16",
+    "rxjs": "^7.8.1",
+    "tslib": "^2.6.2",
+    "undici-types": "^5.26.5"
+  }
+}
